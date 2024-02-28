@@ -723,7 +723,7 @@ body.dark-theme {
 
 .banner-main {
 	width: 100%;
-	height: 87vh;
+	height: 700px;
 }
 
 .banner {
@@ -768,7 +768,7 @@ body.dark-theme {
 	font-family: Product Sans Bold;
 	margin-top: 83px;
 	font-weight: 700;
-	font-size: 110px;
+	font-size: 90px;
 	line-height: 105px;
 	letter-spacing: -0.04em;
 	color: #fff;
@@ -798,7 +798,7 @@ body.dark-theme {
 	border: 1px solid #d8d8d8;
 	z-index: 99;
 	margin: auto;
-	margin-top: 15%;
+	margin-top: 140px;
 }
 
 .search-box .input-box {
